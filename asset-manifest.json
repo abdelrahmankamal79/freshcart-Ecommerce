@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/freshcart-Ecommerce/static/css/main.0ef20475.css",
-    "main.js": "/freshcart-Ecommerce/static/js/main.504a2dbd.js",
+    "main.js": "/freshcart-Ecommerce/static/js/main.dd91005b.js",
     "static/js/592.7d254fed.chunk.js": "/freshcart-Ecommerce/static/js/592.7d254fed.chunk.js",
     "static/media/masterCard.png": "/freshcart-Ecommerce/static/media/masterCard.cd992a4cf6c7f65d3184.png",
     "static/media/fa-solid-900.ttf": "/freshcart-Ecommerce/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
@@ -29,11 +29,11 @@
     "static/media/slick.woff": "/freshcart-Ecommerce/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/freshcart-Ecommerce/index.html",
     "main.0ef20475.css.map": "/freshcart-Ecommerce/static/css/main.0ef20475.css.map",
-    "main.504a2dbd.js.map": "/freshcart-Ecommerce/static/js/main.504a2dbd.js.map",
+    "main.dd91005b.js.map": "/freshcart-Ecommerce/static/js/main.dd91005b.js.map",
     "592.7d254fed.chunk.js.map": "/freshcart-Ecommerce/static/js/592.7d254fed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ef20475.css",
-    "static/js/main.504a2dbd.js"
+    "static/js/main.dd91005b.js"
   ]
 }
